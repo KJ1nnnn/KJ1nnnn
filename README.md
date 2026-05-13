@@ -22,5 +22,5 @@ AI와 로봇 제어를 공부하며, Python 기반 시뮬레이터와 자동화 
 
 | Project | Description | Status |
 |---|---|---|
-| Python Robot Arm Simulator | Python으로 로봇팔 움직임을 시뮬레이션 | Planning |
+| Python Robot Arm Simulator | Python으로 로봇팔 움직임을 시뮬레이션 | in Progress |
 | LLM Robot Controller | 자연어 명령을 로봇 제어 명령으로 변환 | Idea |
